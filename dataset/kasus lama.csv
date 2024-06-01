@@ -1,0 +1,92 @@
+No.,Id kasus,Gejala,Diagnosis
+,Nama Pasien,,
+1,BK001,"Hidung tersumbat (G01), pilek (G02), bersin-bersin(G03), demam (G04), baruk kering (G08).",Influenza (P01)
+,Aisyah Rahmi,,
+2,BK002,"Pilek (G02), demam (G04), nyeri dada (G07), batuk kering (G08).",Influenza (P01)
+,Kamal Chair,,
+3,BK003,"Hidung tersumbat (G01), menggigil (G05), sakit kepala (G06), batuk berdahak (G09).",Influenza (P01)
+,Ismail B,,
+4,BK004,"Hidung tersumbat (G01), pilek (G02), bersin-bersin (G03), sakit kepala (G06), batuk kering (G08).",Influenza (P01)
+,Yusrina,,
+5,BK005,"pilek (G02), batuk kering (G08), lemas (G11), muntah (G13).",Influenza (P01)
+,Nur Hasanah,,
+6,BK006,"Hidung tersumbat (G01), pilek (G02), batuk kering (G08), nyeri tenggorokan (G14).",Influenza (P01)
+,H. Khairani,,
+7,BK007,"Hidung tersumbat (G01), pilek (G02), bersin-bersin (G03), gatal tenggorokan (G17).",Influenza (P01)
+,Zubair Lubis,,
+8,BK008,"pilek (G02), demam (G04), menggigil (G05), diare (G12).",Influenza (P01)
+,M. Ahmad,,
+9,BK009,"Hidung tersumbat (G01), pilek (G02), bersin-bersin (G03), batuk berdahak (G09).",Influenza (P01)
+,Amran Nst,,
+10,BK010,"pilek (G02), demam (G04), sakit kepala (G06).",Influenza (P01)
+,Ahmad Haidir,,
+11,BK011,"pilek (G02), demam (G04), batuk kering (G08), muntah (G13).",Influenza (P01)
+,Ilham M. Hija,,
+12,BK012,"pilek (G02), menggigil (G05), batuk kering (G08), nyeri otot (G10).",Influenza (P01)
+,Murniaty,,
+13,BK013,"demam (G04), nyeri menelan (G15), radang tenggorokan (G16).",Influenza (P01)
+,Suci Vuriani,,
+14,BK014,"nyeri tenggorokan (G14), radang tenggorokan (G16), gatal tenggorokan (G17).",Faringitis (P02)
+,Rizky Ibrahim,,
+15,BK015,"nyeri tenggorokan (G14), nyeri menelan (G15), radang tenggorokan (G16).",Faringitis (P02)
+,Sunita Karim,,
+16,BK016,"demam (G04), sakit kepala (G06), nyeri tenggorokan (G14), nyeri menelan (G15), radang tenggorokan (G16).",Faringitis (P02)
+,Dzaky A. R.,,
+17,BK017,"demam (G04), batuk kering (G08), nyeri tenggorokan (G14), radang tenggorokan (G16).",Faringitis (P02)
+,Fazri Fadila,,
+18,BK018,"demam (G04), batuk kering (G08), nyeri tenggorokan (G14), nyeri menelan (G15), gatal tenggorokan (G17).",Laringitis (P03)
+,Dedi Irwansyah,,
+19,BK019,"batuk berdahak (G09), gatal tenggorokan (G17), suara serak (G18).",Laringitis (P03)
+,Emi Sidauruk,,
+20,BK020,"nyeri tenggorokan (G14), gatal tenggorokan (G17), hilang suara (G19).",Laringitis (P03)
+,Sujono,,
+21,BK021,"Hidung tersumbat (G01), pilek (G02), bersin-bersin (G03), demam (G04), batuk berdahak (G09).",Influenza (P01)
+,Ardian Pratama,,
+22,BK022,"Demam (G04), menggigil (G05), nyeri dada (G07), batuk kering (G08).",Influenza (P01)
+,Aulia Rachman,,
+23,BK023,"Pilek (G02), batuk kering (G08), muntah (G13), nyeri otot (G10).",Influenza (P01)
+,Bayu Aditya,,
+24,BK024,"Demam (G04), sakit kepala (G06), nyeri tenggorokan (G14), radang tenggorokan (G16).",Faringitis (P02)
+,Citra Dewi,,
+25,BK025,"Demam (G04), batuk kering (G08), gatal tenggorokan (G17), suara serak (G18).",Laringitis (P03)
+,Dharma Wijaya,,
+26,BK026,"Hidung tersumbat (G01), pilek (G02), nyeri dada (G07), mual (G13).",Influenza (P01)
+,Elisa Hartati,,
+27,BK027,"Demam (G04), menggigil (G05), nyeri dada (G07), batuk berdahak (G09).",Influenza (P01)
+,Farhan Ramadhan,,
+28,BK028,"Pilek (G02), demam (G04), sakit kepala (G06), mual (G13).",Influenza (P01)
+,Galih Firmansyah,,
+29,BK029,"Hidung tersumbat (G01), pilek (G02), sakit kepala (G06), nyeri otot (G10).",Influenza (P01)
+,Hendra Gunawan,,
+30,BK030,"Pilek (G02), batuk berdahak (G09), lemas (G11), diare (G12).",Influenza (P01)
+,Intan Permata,,
+31,BK031,"Demam (G04), batuk kering (G08), nyeri tenggorokan (G14), gatal tenggorokan (G17).",Faringitis (P02)
+,Joko Susanto,,
+32,BK032,"Demam (G04), batuk berdahak (G09), nyeri menelan (G15), radang tenggorokan (G16).",Faringitis (P02)
+,Kurnia Sari,,
+33,BK033,"Hidung tersumbat (G01), nyeri dada (G07), nyeri otot (G10), gatal tenggorokan (G17).",Influenza (P01)
+,Lisa Anggraeni,,
+34,BK034,"Pilek (G02), demam (G04), batuk kering (G08), gatal tenggorokan (G17).",Faringitis (P02)
+,Maulana Yusuf,,
+35,BK035,"Demam (G04), batuk kering (G08), nyeri tenggorokan (G14), suara serak (G18).",Laringitis (P03)
+,Nadia Fitriani,,
+36,BK036,"Hidung tersumbat (G01), pilek (G02), demam (G04), batuk berdahak (G09).",Influenza (P01)
+,Oky Cahyono,,
+37,BK037,"Pilek (G02), menggigil (G05), batuk kering (G08), nyeri tenggorokan (G14).",Influenza (P01)
+,Putri Ramadhani,,
+38,BK038,"Demam (G04), batuk berdahak (G09), nyeri menelan (G15), hilang suara (G19).",Faringitis (P02)
+,Reza Maulana,,
+39,BK039,"Pilek (G02), demam (G04), nyeri tenggorokan (G14), gatal tenggorokan (G17).",Faringitis (P02)
+,Surya Dharma,,
+40,BK040,"Pilek (G02), demam (G04), batuk berdahak (G09), nyeri tenggorokan (G14).",Influenza (P01)
+,Taufik Wijaya,,
+41,BK041,"Demam (G04), pilek (G02), batuk kering (G08), nyeri dada (G07).",Influenza (P01)
+,Umar Abdullah,,
+42,BK042,"Pilek (G02), demam (G04), sakit kepala (G06), nyeri tenggorokan (G14).",Faringitis (P02)
+,Wahyu Nugroho,,
+43,BK043,"Hidung tersumbat (G01), pilek (G02), demam (G04), menggigil (G05), batuk berdahak (G09).",Influenza (P01)
+,Dini Rahmawati,,
+44,BK044,"Demam (G04), batuk kering (G08), nyeri tenggorokan (G14), gatal tenggorokan (G17).",Faringitis (P02)
+,Agung Santoso,,
+45,BK045,"Pilek (G02), batuk berdahak (G09), nyeri menelan (G15), hilang suara (G19).",Faringitis (P02)
+,Indah Permata,,

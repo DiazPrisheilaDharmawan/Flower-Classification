@@ -1,0 +1,21 @@
+No.,Id Gejala,Nama Gejala,Bobot Nilai Gejala,,
+,,,Influenza,Faringitis,Laringitis
+1,G01,Hidung tersumbat,1,0,0
+2,G02,Pilek,0.8,0,0
+3,G03,Bersin-bersin,0.8,0,0
+4,G04,Demam,0.6,0.6,0.6
+5,G05,Menggigil/meriang(Mengi),0.6,0,0
+6,G06,Sakit kepala,0.6,0,0
+7,G07,Nyeri dada,0.4,0,0
+8,G08,Batuk kering,0.4,0,0.4
+9,G09,Batuk berdahak,0.4,0,0.4
+10,G10,Nyeri otot/nyeri sendi,0.6,0.4,0.4
+11,G11,Lemas,0.6,0,0
+12,G12,Diare,0.2,0,0
+13,G13,Mual/muntah,0.4,0,0.2
+14,G14,Nyeri tenggorokan,0,0.8,0.4
+15,G15,Nyeri menelan,0,0.8,0
+16,G16,Radang tenggorokan(Tenggorokan membengkak),0,1,0
+17,G17,Gatal tenggorokan,0.4,0,0.6
+18,G18,Suara serak,0,0,0.8
+19,G19,Hilang suara,0,0,1
