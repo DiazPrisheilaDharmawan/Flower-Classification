@@ -1,5 +1,4 @@
-No.,Id Gejala,Nama Gejala,Bobot Nilai Gejala,,
-,,,Influenza,Faringitis,Laringitis
+Nomor,Id Gejala,Nama Gejala,Influenza,Faringitis,Laringitis
 1,G01,Hidung tersumbat,1,0,0
 2,G02,Pilek,0.8,0,0
 3,G03,Bersin-bersin,0.8,0,0
